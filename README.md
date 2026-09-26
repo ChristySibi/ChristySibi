@@ -2,7 +2,7 @@
 
 Production Support Analyst with CRM expertise · MSc in Information Technology · Mumbai, India
 
-I keep enterprise systems running and users unblocked — 7+ years at Tata Consultancy Services across production support, CRM, and cybersecurity-adjacent change management work.
+I keep enterprise systems running and users unblocked - 7+ years at Tata Consultancy Services across production support, CRM, and cybersecurity-adjacent change management work.
 
 ---
 
@@ -53,7 +53,6 @@ I keep enterprise systems running and users unblocked — 7+ years at Tata Consu
 
 ### Let's connect
 
-[![Email](https://img.shields.io/badge/Email-christypachikkal%40gmail.com-0A0E16?style=flat-square&logo=gmail&logoColor=white)](mailto:christypachikkal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christypachikkal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christypachikkal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ChristySibi.github.io-35C48C?style=flat-square&logo=googlechrome&logoColor=white)](https://christysibi.github.io/ChristySibi/)
 
